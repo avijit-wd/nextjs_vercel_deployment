@@ -9,7 +9,8 @@
     "lint": "next lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "test": "jest"
+    "test": "jest",
+    "chromatic": "npx chromatic --project-token=73edc4181f5f"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -41,5 +42,7 @@
     "eslint-plugin-storybook": "^0.6.4",
     "jest-environment-jsdom": "^29.3.0",
     "typescript": "4.8.3"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nextjs-storybook@0.1.0"
 }
