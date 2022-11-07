@@ -1,5 +1,9 @@
+# .github/workflows/chromatic.yml
+
+# Workflow name
 name: "check"
 
+# Event for the workflow
 on:
   push:
     branches: [main]
